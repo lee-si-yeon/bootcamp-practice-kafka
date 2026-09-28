@@ -38,3 +38,6 @@ out/
 
 ### Custom ###
 .env
+
+# JVM heap dumps
+*.hprof
